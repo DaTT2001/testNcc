@@ -79,6 +79,7 @@
     margin-top: 40px;
     display: flex;
     gap: 50px;
+    margin-bottom: 183px;
 }
 
 .square img {
@@ -91,7 +92,6 @@
 
 /* footer */
 .footer {
-    margin-top: 183px;
     position: relative;
     left: 150px;
     border-top: 1px solid #ccc;
